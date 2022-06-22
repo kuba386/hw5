@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  TrafficLight
 //
-//  Created by куба жанат on 22.01.2022.
+//  Created by куба жанат on 23.06.2022.
 //
 
 import UIKit
